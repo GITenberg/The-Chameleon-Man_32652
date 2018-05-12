@@ -1,0 +1,30 @@
+_repo: The-Chameleon-Man_32652
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32652-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McGivern, William P.
+    alias: McGivern, William Peter
+    birthdate: 1921
+    deathdate: 1982
+    gutenberg_agent_id: '35964'
+    url: http://www.gutenberg.org/2009/agents/35964
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'World War, 1939-1945 -- United States -- Fiction'
+- !lcsh 'Short stories'
+title: The Chameleon Man
+url: http://www.gutenberg.org/ebooks/32652
